@@ -79,7 +79,7 @@
                             <div class="card-body bg-secondary text-dark">
                                 <form>
                                     <div class="mb-3">
-                                        <label for="teamname" class="form-label"><h6>Team Name  :   Unknown</h6></label>
+                                        <label for="teamname" class="form-label"><h6>Developer Name  :   Unknown</h6></label>
 
                                     </div>
 
